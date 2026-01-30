@@ -47,6 +47,12 @@ markdown_extensions:
       custom_checkbox: true
 
 nav:
-  - General: 'index.md'
+  - Inicio: 'index.md'
   - Assets: 'assets.md'
   - Arquitectura: 'architecture.md'
+  - Redes y Multijugador:
+    - General: 'net/overview.md'
+    - Flujo de Trabajo: 'net/workflow.md'
+    - Cliente: 'net/client.md'
+    - Servidor: 'net/server.md'
+    - Paquetes: 'net/packets.md'
