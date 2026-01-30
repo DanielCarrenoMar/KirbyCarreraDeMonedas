@@ -1,5 +1,3 @@
-# Assets del Juego
-
 ## Sprites
 
 ### [Sprite Database](https://spritedatabase.net/)
